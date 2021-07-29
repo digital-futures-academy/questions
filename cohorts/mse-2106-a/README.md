@@ -24,7 +24,7 @@
 | if you could only keep one app on your phone, what would it be? | ✅
 | what is your favourite clothing shop ? |
 | fave game? |
-| what food would you remove from existence |
+| what food would you remove from existence | ✅
 | what is your drive for solving bugs? | ✅
 | what is your favourite song? |
 | How do you typically spend your saturdays? | ✅
