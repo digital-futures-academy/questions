@@ -18,12 +18,12 @@
 | What type of holiday is your favourite? eg. city break, beach, active | ✅
 | Favourite dance move? |
 | What was the last book you read? | ✅
-| Who's your favourite athlete of all time? |
+| Who's your favourite athlete of all time? | ✅
 | Where's your favourite holiday destination? | ✅
 | How many holes does a straw have? | ✅
 | if you could only keep one app on your phone, what would it be? | ✅
 | what is your favourite clothing shop ? |
-| fave game? |
+| fave game? | ✅
 | what food would you remove from existence | ✅
 | what is your drive for solving bugs? | ✅
 | what is your favourite song? |
