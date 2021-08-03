@@ -29,6 +29,6 @@
 | what is your favourite song? |
 | How do you typically spend your saturdays? | ✅
 | What's the first thing you do when you wake up | ✅
-| What is your myers briggs result? |
+| What is your myers briggs result? | ✅
 | Favourite drink? |
 | If you could only wear one item of clothing, what would you wear? |
