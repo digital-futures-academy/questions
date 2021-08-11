@@ -6,7 +6,7 @@
 | If you could only eat one meal for the rest of your life what would it be? |
 | What superpower would you want to wake up with tomorrow? | ✅
 | Would you rather have no arms or no legs? |
-| If you could buy any pair of shoes for any price, what would it be ? |
+| If you could buy any pair of shoes for any price, what would it be ? | ✅
 | What is your favourite superhero, and Marvel or DC? |
 | Early bird or night owl? What is your ideal time of getting up in the morning? |
 | if you could be in any show/movie what would it be and why? |
